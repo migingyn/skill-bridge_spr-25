@@ -1,0 +1,24 @@
+# === Node.js / React ===
+node_modules/
+build/
+.env
+.DS_Store
+
+# === Java / Spring Boot ===
+target/
+*.log
+*.class
+*.jar
+*.war
+*.iml
+
+# === OS / IDE junk ===
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+*.bak
+
+# === Environment Files ===
+.env
+.env.*
