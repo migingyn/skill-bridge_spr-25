@@ -1,2 +1,24 @@
-# skill-bridge_spr-25
-A full-stack web application that connects students and early-career developers with short-term, skill-based micro-internships from startups, nonprofits, and small businesses. Built with Spring Boot (Java) and React.js.
+# SkillBridge
+
+SkillBridge is a web app that connects students with micro-internship opportunities from startups and nonprofits. It allows project posting, skill-based matching, and real-world experience building for early-career developers.
+
+## 💻 Tech Stack
+
+**Frontend:**
+- React.js
+- JavaScript (ES6+)
+- Axios
+- TailwindCSS (or Material UI)
+
+**Backend:**
+- Java (Spring Boot)
+- Spring Security (JWT Auth)
+- Hibernate (JPA)
+- PostgreSQL
+
+**Other Tools:**
+- Docker (for deployment)
+- Git & GitHub (version control)
+- Postman (API testing)
+
+## 📁 Folder Structure
